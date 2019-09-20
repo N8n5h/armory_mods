@@ -1,4 +1,4 @@
-package armory.trait;
+package arm;
 
 import iron.Trait;
 import iron.system.Input;
